@@ -9,7 +9,6 @@ description = "A simple timer utility for recording the run times for other proc
 authors = [
   { name="Jon Hart", email="hartjc@gmail.com" }
 ]
-license = "GNU"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
