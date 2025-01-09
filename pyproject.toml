@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "stop-watch"
+name = "simple-stop-watch"
 version = "2.0.1b1"
 description = "A simple timer utility for recording the run times for other processes."
 authors = [
